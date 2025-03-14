@@ -6,6 +6,6 @@ function entrar() {
     area.innerHTML = "Clique no botão para acessar...";
     //
   } else {
-    area.innerHTML = "Bem vindo ao sistema " + nome + " ";
+    area.innerHTML = "Bem vindo ao sistema de Login " + nome + " ";
   }
 }
